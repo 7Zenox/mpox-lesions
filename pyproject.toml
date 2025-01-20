@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mpox-lesions"
+version = "0.1.0"
+description = "repository to document and research for a new SOTA on the mpox lesions v2 dataset"
+authors = ["hauntedcupoftea <andydchauhan@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
