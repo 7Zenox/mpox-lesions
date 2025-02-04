@@ -8,7 +8,7 @@ from torch.utils.tensorboard import SummaryWriter  # TensorBoard integration
 import os
 
 # Import your dataset and model
-from dataloader import load_data, preprocess_data  # Replace with your dataset module
+from data_loader import load_data, preprocess_data  # Replace with your dataset module
 
 # from your_model_module import get_model  # Replace with your model module
 
